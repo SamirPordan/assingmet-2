@@ -1,0 +1,132 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans:ital,wght@1,200&family=Poppins&family=Teko:wght@300&display=swap');
+
+.head-1>h2{
+    padding-bottom: 60px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+
+.h2{
+    margin-top: -21px;
+    color: rgb(252, 92, 64);
+}
+.first-section{
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.head-1{
+    
+}
+a{
+    padding: 10px 15px;
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 95, 67);
+    border: 1px rgba(221, 51, 21, 0.247);
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+.cut{
+    margin-top: -10px;
+}
+.img img{
+    margin-top: 50px;
+    
+}
+.review{
+    color: goldenrod;
+}
+.unreview{
+    color: rgba(124, 119, 119, 0.616);
+}
+.h2-2nd{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+.albums-1{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 41px;
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+}
+.album{
+    background-color: rgb(222, 236, 222);
+    border-radius: 10px ;
+    align-items: center;
+    margin: 0% auto;
+    padding: 15px;
+    padding-left: 31px;
+    box-shadow: 9px 5px 9px rgb(128 128 128 / 25%);
+}
+.album img{
+    width: 200px;
+}
+.ratings{
+    display: flex;
+}
+.reating{
+    margin-top: -4px;
+    margin-left: 25px;
+}
+.price,h3{
+    margin: auto;
+}
+.log{
+    background-image: url(images/bgc.png);
+    padding-left: 20px;
+    padding-right: 59px;
+    border-radius: 10px;
+}
+.info{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+.infop{
+    color: whitesmoke;
+}
+.input{
+    padding: 10px 25px;
+    
+}
+.checkbox{
+    border: 2px solid black;
+    border-radius: 10px ;
+    padding: 17px;
+    margin-right: 900px;
+}
+.all{
+    display: flex;
+    margin-left: 13%;
+    margin-right: 4%;
+}
+.lastphoto{
+    margin-left: 137%;
+}
+.samir{
+    text-align: center;
+    background-color: rgb(44, 44, 44);
+    margin: 0px 0px 0px 0px;
+    font-family: sans-serif;
+    margin-bottom: -22px;
+}
+.samir>h2{
+    color: rgb(197, 46, 0);
+    font-family: 'Bebas Neue', cursive;
+}
+span{
+    color: whitesmoke;
+}
+.samm{
+    color: white;
+    
+}
